@@ -1,0 +1,14 @@
+
+
+- Install new version in the regular way.
+
+- Your theme options in your database.
+
+- Select your custom menu again for the theme location.
+
+- Re-select your options from theme customizer.
+
+- Check your widget locations.
+
+- The translation files are located in the languages folder under theme folder.
+Copy your translation files ( .po and .mo ) from previous version of the theme.
